@@ -1,0 +1,7 @@
+if (document.addEventListener){
+        document.addEventListener("DOMContentLoaded", nombrescript1, false);
+        document.addEventListener("DOMContentLoaded", nombrescript2, false);
+        document.addEventListener("DOMContentLoaded", nombrescript3, false);
+        document.addEventListener("DOMContentLoaded", nombrescript4, false);
+        document.addEventListener("DOMContentLoaded", nombrescript5, false);
+    }
